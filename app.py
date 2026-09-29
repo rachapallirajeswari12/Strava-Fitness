@@ -16,7 +16,7 @@ st.set_page_config(
 # DATA PATH
 # =========================================================
 
-DATA_PATH = r"C:\Users\BR REDDY\OneDrive\Desktop\Strava Fitness\Data Files\mturkfitbit_export_4.12.16-5.12.16\Fitabase Data 4.12.16-5.12.16"
+DATA_PATH = "."
 
 daily_file = os.path.join(
     DATA_PATH,
